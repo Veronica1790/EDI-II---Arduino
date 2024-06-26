@@ -1,0 +1,2 @@
+DHT 22 - invernadero Wokwi.
+https://wokwi.com/projects/368619389073806337
